@@ -32,6 +32,10 @@ function v() {
     return "dsfsfsf"
 }
 
+function k() {
+    return "dsdsfdsfsfsfsf"
+}
+
 
 
 async function mbuh() {
